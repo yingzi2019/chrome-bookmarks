@@ -1,0 +1,243 @@
+[
+    {
+        "type": "folder",
+        "name": "Bookmarks",
+        "add_date": "1719213121",
+        "last_modified": "1739942059",
+        "personal_toolbar_folder": "true",
+        "children": [
+            {
+                "type": "folder",
+                "name": "search",
+                "children": [
+                    {
+                        "name": "npm",
+                        "type": "bookmark",
+                        "href": "https://www.npmjs.com/"
+                    },
+                    {
+                        "name": "pypi",
+                        "type": "bookmark",
+                        "href": "https://pypi.org/"
+                    },
+                    {
+                        "name": "icones",
+                        "type": "bookmark",
+                        "href": "https://icones.js.org/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "web-frameworks",
+                "children": [
+                    {
+                        "name": "vue",
+                        "type": "bookmark",
+                        "href": "https://vuejs.org/"
+                    },
+                    {
+                        "name": "react",
+                        "type": "bookmark",
+                        "href": "https://reactjs.org/"
+                    },
+                    {
+                        "name": "playwright",
+                        "type": "bookmark",
+                        "href": "https://playwright.dev/"
+                    },
+                    {
+                        "name": "vitepress",
+                        "type": "bookmark",
+                        "href": "https://vitepress.dev/"
+                    },
+                    {
+                        "name": "slidev",
+                        "type": "bookmark",
+                        "href": "https://sli.dev/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "web-templates",
+                "children": [
+                    {
+                        "name": "vue-vben-admin",
+                        "type": "bookmark",
+                        "href": "https://github.com/vbenjs/vue-vben-admin"
+                    },
+                    {
+                        "name": "vitesse",
+                        "href": "https://github.com/antfu-collective/vitesse"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "web-ui",
+                "children": [
+                    {
+                        "name": "element-plus",
+                        "type": "bookmark",
+                        "href": "https://element-plus.org/zh-CN/component/overview.html"
+                    },
+                    {
+                        "name": "antd-vue",
+                        "type": "bookmark",
+                        "href": "https://antdv.com/components/overview-cn"
+                    },
+                    {
+                        "name": "vant",
+                        "type": "bookmark",
+                        "href": "https://vant-ui.github.io/vant/#/zh-CN"
+                    },
+                    {
+                        "name": "primevue",
+                        "type": "bookmark",
+                        "href": "https://primevue.org/"
+                    },
+                    {
+                        "name": "shadcn-vue",
+                        "type": "bookmark",
+                        "href": "https://www.shadcn-vue.com/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "web-tools",
+                "children": [
+                    {
+                        "name": "vite",
+                        "type": "bookmark",
+                        "href": "https://vitejs.dev/"
+                    },
+                    {
+                        "name": "pinia",
+                        "type": "bookmark",
+                        "href": "https://pinia.vuejs.org/"
+                    },
+                    {
+                        "name": "vueuse",
+                        "type": "bookmark",
+                        "href": "https://vueuse.org/"
+                    },
+                    {
+                        "name": "vue-router",
+                        "type": "bookmark",
+                        "href": "https://router.vuejs.org/"
+                    },
+                    {
+                        "name": "vue-i18n",
+                        "type": "bookmark",
+                        "href": "https://vue-i18n.intlify.dev/"
+                    },
+                    {
+                        "name": "unocss",
+                        "type": "bookmark",
+                        "href": "https://unocss.dev/"
+                    },
+                    {
+                        "name": "vue-grid-layout",
+                        "type": "bookmark",
+                        "href": "https://jbaysolutions.github.io/vue-grid-layout/"
+                    },
+                    {
+                        "name": "valibot",
+                        "type": "bookmark",
+                        "href": "https://valibot.dev/guides/introduction/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "code-editor",
+                "children": [
+                    {
+                        "name": "vscode",
+                        "type": "bookmark",
+                        "href": "https://code.visualstudio.com/"
+                    },
+                    {
+                        "name": "cursor",
+                        "type": "bookmark",
+                        "href": "https://www.cursor.com/"
+                    },
+                    {
+                        "name": "pycharm",
+                        "type": "bookmark",
+                        "href": "https://www.jetbrains.com/pycharm/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "ui-tools",
+                "children": [
+                    {
+                        "name": "removebg",
+                        "type": "bookmark",
+                        "href": "https://www.remove.bg/"
+                    },
+                    {
+                        "name": "squoosh",
+                        "type": "bookmark",
+                        "href": "https://squoosh.app/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "awesome-list",
+                "children": [
+                    {
+                        "name": "awesome-flutter-cn",
+                        "type": "bookmark",
+                        "href": "https://github.com/crazycodeboy/awesome-flutter-cn"
+                    },
+                    {
+                        "name": "awesome-vue",
+                        "type": "bookmark",
+                        "href": "https://github.com/vuejs/awesome-vue"
+                    },
+                    {
+                        "name": "awesome-python",
+                        "type": "bookmark",
+                        "href": "https://github.com/vinta/awesome-python"
+                    },
+                    {
+                        "name": "awesome-typescript",
+                        "type": "bookmark",
+                        "href": "https://github.com/semlinker/awesome-typescript"
+                    },
+                    {
+                        "name": "awesome-cloudflare",
+                        "type": "bookmark",
+                        "href": "https://github.com/zhuima/awesome-cloudflare"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "name": "flutter",
+                "children": [
+                    {
+                        "name": "awesome-flutter-cn",
+                        "type": "bookmark",
+                        "href": "https://github.com/crazycodeboy/awesome-flutter-cn"
+                    },
+                    {
+                        "type": "bookmark",
+                        "name": "五十音",
+                        "href": "https://juejin.cn/post/6987393152332070920"
+                    },{
+                        "type": "bookmark",
+                        "name": "gsy_flutter",
+                        "href": "https://github.com/CarGuo/gsy_github_app_flutter"
+                    }
+                ]
+            }
+        ]
+    }
+]
