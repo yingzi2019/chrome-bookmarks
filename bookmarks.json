@@ -231,7 +231,13 @@
                         "type": "bookmark",
                         "name": "五十音",
                         "href": "https://juejin.cn/post/6987393152332070920"
-                    },{
+                    },
+                    {
+                        "type": "bookmark",
+                        "name": "flutter-unit",
+                        "href": "https://github.com/toly1994328/FlutterUnit"
+                    },
+                    {
                         "type": "bookmark",
                         "name": "gsy_flutter",
                         "href": "https://github.com/CarGuo/gsy_github_app_flutter"
